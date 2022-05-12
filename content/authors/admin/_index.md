@@ -1,39 +1,31 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Сячинова Ксения Ивановна 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студент 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский Университет Дружбы Народов
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+Всем привет! Меня зовут Ксения. Я родилась в небольшом городе Лебедянь, Липецкая область. Окончила учереждение "Детская музыкальная школу имени К.Н. Игумнова". После выпуска из школы "МБОУ Гимназия №1 им. Н.И. Борцова" поступила в высшее учебное заведение: Российский Университет Дружбы Народов.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Игра на гитаре и фортепиано
+  - Поэзия
+  - Кулинария
+  - Изучение математики
 
 # Education to show in About widget
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  Прикладная математика и информатика, РУДН, 2021-2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
