@@ -26,7 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Прикладная математика и информатика  РУДН, 2021-2025
+    - course: Прикладная математика и информатика
+      institution: РУДН
+      year: 2021-2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
