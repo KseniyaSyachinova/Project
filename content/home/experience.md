@@ -21,29 +21,32 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Работа в Пятёрочке
+    company: Сеть магазинов "Пятёрочка"
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Лебедянь
+    date_start: '2021-07-01'
+    date_end: '2021-08-01'
     description: |2-
-        Responsibilities include:
+        Мои ответсвенности:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Выкладка товара
+        * Проверка сроков годности
+        * Работа за кассой
+        * Учёт и контроль денежной наличности
+        * Ведение инвентаризации
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Индивидуальный проект по теме "Грозит ли Земле перенаселение?"
+    company: МБОУ Гимназия №1 им. Н.И. Борцова
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Лебедянь
+    date_start: '2020-09-01'
+    date_end: '2021-05-01'
+    description: Изучение проблемы перенаселения Земли.
 
 design:
   columns: '2'

@@ -17,17 +17,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
+    icon: music
+    icon_pack: fas
+    name: Музыка
+  - description: 50%
+    icon: basketball
+    icon_pack: fas
+    name: Баскетбол
   - description: 100%
-    icon: chart-line
+    icon: car
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    name: Вождение
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -43,3 +43,4 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
+
