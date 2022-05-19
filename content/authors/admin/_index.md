@@ -35,21 +35,30 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: book
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://elibrary.ru/defaultx.asp?
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?view_op=list_works&hl=ru&user=yzAYeB4AAAAJ
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/my-orcid?orcid=0000-0001-5910-1293
+  - icon: magnifying-glass
+    icon_pack: fas
+    link: https://www.mendeley.com/search/
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Ksenia-Sacinova
+  - icon: a
+    icon_pack: fab
+    link: https://independent.academia.edu/%D0%9A%D1%81%D0%B5%D0%BD%D0%B8%D1%8F%D0%A1%D1%8F%D1%87%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0
+  - icon: face-smile
+    icon_pack: fas
+    link: https://arxiv.org/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/KseniyaSyachinova
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
