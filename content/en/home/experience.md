@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Работа в Пятёрочке
-    company: Сеть магазинов "Пятёрочка"
+  - title: Work in Pyaterochka
+    company: Chain of stores "Pyaterochka"
     company_url: ''
     company_logo: org-gc
-    location: Лебедянь
+    location: Lebedyan
     date_start: '2021-07-01'
     date_end: '2021-08-01'
     description: |2-
-        Мои ответсвенности:
+        My responsibilities:
         
-        * Выкладка товара
-        * Проверка сроков годности
-        * Работа за кассой
-        * Учёт и контроль денежной наличности
-        * Ведение инвентаризации
+         * Display of goods
+         * Check expiration dates
+         * Cashier work
+         * Cash accounting and control
+         * Inventory management
 
-  - title: Индивидуальный проект по теме "Грозит ли Земле перенаселение?"
-    company: МБОУ Гимназия №1 им. Н.И. Борцова
+  - title: Individual project on the topic "Is the Earth in danger of overpopulation?"
+    company: MBOU Gymnasium №1 named after. N.I. Bortsova
     company_url: ''
     company_logo: org-x
-    location: Лебедянь
+    location: Lebedyan
     date_start: '2020-09-01'
     date_end: '2021-05-01'
-    description: Изучение проблемы перенаселения Земли.
+    description: Study of the problem of overpopulation of the Earth.
 
 design:
   columns: '2'

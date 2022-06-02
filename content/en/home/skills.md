@@ -19,15 +19,15 @@ feature:
   - description: 90%
     icon: music
     icon_pack: fas
-    name: Музыка
+    name: Music
   - description: 50%
     icon: basketball
     icon_pack: fas
-    name: Баскетбол
+    name: Basletball
   - description: 100%
     icon: car
     icon_pack: fas
-    name: Вождение
+    name: Driving
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

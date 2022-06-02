@@ -26,26 +26,26 @@ item:
   - certificate_url: 
     date_end: '2020-03-01'
     date_start: '2019-09-01'
-    description: 'Победитель муниципального этапа всероссийской олимпиады школьников по английскому в 2019 году'
-    organization: Лебебянский район
+    description: 'Winner of the municipal stage of the All-Russian Olympiad for schoolchildren in English in 2019'
+    organization: Lebedyansky district
     organization_url: 
-    title: Олимпиада по английскому языку
+    title: Olympiad in English
   
   - certificate_url: 
     date_end: '2021-03-01'
     date_start: '2020-09-01'
-    description: Победитель муниципального этапа всероссийской олимпиады школьников по английскому в 2020 году
-    organization: Лебедянский район
+    description: Winner of the municipal stage of the All-Russian Olympiad for schoolchildren in English in 2020
+    organization: Lebedyansky district
     organization_url:
-    title: Олимпиада по математике
+    title: Mathematics Olympiad
     
   - certificate_url: 
     date_end: ''
     date_start: '2016-09-01'
-    description: 'Получение третьго юношеского разряда по плаванию'
-    organization: Спортивный оздоравительный комплекс
+    description: 'Obtaining the third youth category in swimming'
+    organization: Sports recreation complex
     organization_url: https://www.datacamp.com
-    title: 'Третий юношский разряд'
+    title: 'Third Youth Rank'
     url: ''
 
 design:
